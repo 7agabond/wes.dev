@@ -20,7 +20,7 @@
 }
 
 *:focus-visible {
-  outline: none;
+  outline-color: transparent;
   box-shadow: 0 0 0 6px var(--focus-color, #fff);
   background-color: var(--focus-color, #fff);
   color: var(--accent-color);
